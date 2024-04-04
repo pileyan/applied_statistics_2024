@@ -8,4 +8,4 @@
 
 ## Домашняя работа
 
-[ДЗ1](https://github.com/pileyan/applied_statistics_2024/blob/master/homework/HW1.pdf) Сдача до 9 апреля включительно [сюда](https://www.dropbox.com/request/ZplNuxAYc8H8TuIiTQc9)
+[ДЗ1](https://github.com/pileyan/applied_statistics_2024/blob/master/homework/HW1.pdf) Сдача до **9 апреля** включительно [сюда](https://www.dropbox.com/request/ZplNuxAYc8H8TuIiTQc9). Формат сдачи - ZIP-архив, названный ФамилияИмя.zip, 
