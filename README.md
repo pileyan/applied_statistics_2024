@@ -8,4 +8,4 @@
 
 ## Домашняя работа
 
-В общей сложности будет 5 ДЗ, сдача на DropBox. Ссылка будет приложена.
+[ДЗ1](https://github.com/pileyan/applied_statistics_2024/blob/master/homework/HW1.pdf) Сдача до **14 апреля** включительно [сюда](https://www.dropbox.com/request/ZplNuxAYc8H8TuIiTQc9). Формат сдачи - ZIP-архив, названный ФамилияИмя.zip, Если у вас не форс-мажор, то дедлайн жесткий
