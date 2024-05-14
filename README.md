@@ -15,6 +15,7 @@
 
 [Лекция 6](https://github.com/pileyan/applied_statistics_2024/tree/master/lect06) Тесты с метриками-отношениями. Бакетные тесты, Линеаризация ratio, Пуассоновский бутстреп, Дельта-метод. 
 
+[Лекция 7](https://github.com/pileyan/applied_statistics_2024/tree/master/lect06) Коэффициенты корреляции, Многорукие бандиты
 
 ## Домашняя работа
 
