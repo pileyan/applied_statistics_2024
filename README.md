@@ -27,6 +27,8 @@
 
 [ДЗ3](https://github.com/pileyan/applied_statistics_2024/blob/master/homework/HW3_2021-06-07.pdf) Сдача до **27 мая** включительно [сюда](https://www.dropbox.com/request/pP6YDgufWoLy2YEvQqCs),  Формат сдачи - ZIP-архив, названный ФамилияИмя.zip, Если у вас не форс-мажор, то дедлайн жесткий
 
+[ДЗ4](https://github.com/pileyan/applied_statistics_2024/blob/master/homework/HW4.ipynb)  Сдача до **8 июля** включительно [сюда](https://www.dropbox.com/request/dTDSabcbdQLVdncsecSD) Формат сдачи - ZIP-архив, названный ФамилияИмя.zip, Если у вас не форс-мажор, то дедлайн жесткий
+
 ## Полезные материалы
 
 [Курс теорвера от Л.Иосипого](http://iosipoi.com/teaching/introduction-to-probability-theory-4/). Там много ссылок и полезностей)
