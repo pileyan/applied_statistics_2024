@@ -25,7 +25,7 @@
 
 [ДЗ1](https://github.com/pileyan/applied_statistics_2024/blob/master/homework/HW1.pdf) Сдача до **4 февраля** включительно [сюда](https://www.dropbox.com/request/ZplNuxAYc8H8TuIiTQc9). Формат сдачи - ZIP-архив, названный ФамилияИмя.zip, Если у вас не форс-мажор, то дедлайн жесткий
 
-[ДЗ2](https://github.com/pileyan/applied_statistics_2024/blob/master/homework/HW2.pdf) Сдача до **25 февраля** включительно [сюда](https://www.dropbox.com/request/ZtpBFaJ8Pson13JURrhf). Формат сдачи - ZIP-архив, названный ФамилияИмя.zip, Если у вас не форс-мажор, то дедлайн жесткий
+[ДЗ2](https://github.com/pileyan/applied_statistics_2024/blob/master/homework/HW2.pdf) вместо задач 2 и 3 предлагается сделать [это](https://github.com/pileyan/applied_statistics_2024/blob/master/lect04/Матчинг%20и%20разметка.ipynb). Сдача до **25 февраля** включительно [сюда](https://www.dropbox.com/request/ZtpBFaJ8Pson13JURrhf). Формат сдачи - ZIP-архив, названный ФамилияИмя.zip, Если у вас не форс-мажор, то дедлайн жесткий
 
 [ДЗ3](https://github.com/pileyan/applied_statistics_2024/blob/master/homework/HW3_2021-06-07.pdf) Сдача до **** включительно [сюда](https://www.dropbox.com/request/pP6YDgufWoLy2YEvQqCs),  Формат сдачи - ZIP-архив, названный ФамилияИмя.zip, Если у вас не форс-мажор, то дедлайн жесткий
 
